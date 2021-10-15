@@ -9,3 +9,5 @@
 *.lof
 *.bbl
 *.blg
+*.fls
+*.fdb_latexmk
